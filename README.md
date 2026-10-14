@@ -1,4 +1,4 @@
-# Gelato production and stock control system (IRIS)
+# Gelato production and stock control system
 
 > **Operations & control** · In operation and expanding
 >
@@ -21,7 +21,7 @@ flowchart LR
 
 ## Português
 
-### Sistema de controle de produção e estoque de gelato (IRIS)
+### Sistema de controle de produção e estoque de gelato
 
 **Área:** Operação e controle · **Status:** Em operação e em expansão
 
@@ -51,7 +51,7 @@ Entendi a rotina da cozinha e das lojas (pedido, produção, pesagem do gelato e
 
 ## English
 
-### Gelato production and stock control system (IRIS)
+### Gelato production and stock control system
 
 **Area:** Operations & control · **Status:** In operation and expanding
 
